@@ -1,0 +1,13 @@
+
+-----------------------------------------------------------------------
+CLONAR REPOSITORIO DO GITHUB
+
+1 - Abrir pasta / Botão Direito / Open Git Bash Here 
+
+2 - git clone https://github.com/GuFariasX/git-desafio-jogos-ifood.git
+
+3 - CD + nome da pasta para entrar na MAIN
+------------------------------------------------------------------------
+
+
+- 
