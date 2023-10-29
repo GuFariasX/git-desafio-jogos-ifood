@@ -8,6 +8,13 @@ CLONAR REPOSITORIO DO GITHUB
 
 3 - CD + nome da pasta para entrar na MAIN
 ------------------------------------------------------------------------
+SUBIR A VERSÃO NOVA PARA O GIT HUB
 
+1 - Entrar no processo acima.
 
-- 
+2 - Comando git add . ou git add -a
+
+3 - Fazer um commit - git commit -m "Inclusão das anotações do curso"
+
+4 - Fazer o comando - git pushu origin main
+------------------------------------------------------------------------
